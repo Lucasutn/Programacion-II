@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/RecursiveFunction.java" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="315dfffc-6ed2-4810-bf43-9b651eb8e07d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UImain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UImain.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RecursiveFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2108">
+              <caret line="616" selection-start-line="616" selection-end-line="616" />
+              <folding>
+                <element signature="docComment;method#UnoALDiez#0;class#RecursiveFunction#0" />
+                <element signature="method#UnoALDiez#0;class#RecursiveFunction#0" />
+                <element signature="docComment;method#TablaDelNueve#0;class#RecursiveFunction#0" />
+                <element signature="method#TablaDelNueve#0;class#RecursiveFunction#0" />
+                <element signature="docComment;method#numeroMayor#0;class#RecursiveFunction#0" />
+                <element signature="method#numeroMayor#0;class#RecursiveFunction#0" />
+                <element signature="docComment;method#fibbonacci#0;class#RecursiveFunction#0" />
+                <element signature="method#fibbonacci#0;class#RecursiveFunction#0" />
+                <element signature="docComment;method#recursiveFibonacci#0;class#RecursiveFunction#0" />
+                <element signature="method#recursiveFibonacci#0;class#RecursiveFunction#0" />
+                <element signature="docComment;method#recursiveFibonacciNum#0;class#RecursiveFunction#0" />
+                <element signature="method#recursiveFibonacciNum#0;class#RecursiveFunction#0" />
+                <element signature="e#3502#3692#1" />
+                <element signature="docComment;method#bunnyEars#0;class#RecursiveFunction#0" />
+                <element signature="method#bunnyEars#0;class#RecursiveFunction#0" />
+                <element signature="docComment;method#bunnyEars#1;class#RecursiveFunction#0" />
+                <element signature="method#bunnyEarsTres#0;class#RecursiveFunction#0" />
+                <element signature="docComment;field#fa#0;class#RecursiveFunction#0" />
+                <element signature="method#factorialNumber#0;class#RecursiveFunction#0" />
+                <element signature="docComment;method#factorialFuntion#0;class#RecursiveFunction#0" />
+                <element signature="method#factorial#0;class#RecursiveFunction#0" />
+                <element signature="docComment;field#fa#0;class#RecursiveFunction#0" />
+                <element signature="method#factorialNumberRecursive#0;class#RecursiveFunction#0" />
+                <element signature="docComment;field#di#0;class#RecursiveFunction#0" />
+                <element signature="method#divisionEnteros#0;class#RecursiveFunction#0" />
+                <element signature="docComment;method#division#0;class#RecursiveFunction#0" />
+                <element signature="method#division#0;class#RecursiveFunction#0" />
+                <element signature="docComment;field#getReverseNumber#0;class#RecursiveFunction#0" />
+                <element signature="method#ReverseNumber#0;class#RecursiveFunction#0" />
+                <element signature="method#reverseNumber#0;class#RecursiveFunction#0" />
+                <element signature="docComment;field#sum#0;class#RecursiveFunction#0" />
+                <element signature="method#sumDigits#0;class#RecursiveFunction#0" />
+                <element signature="method#suma#0;class#RecursiveFunction#0" />
+                <element signature="e#10245#10372#1" />
+                <element signature="e#10378#10519#1" />
+                <element signature="docComment;field#ci#0;class#RecursiveFunction#0" />
+                <element signature="method#contar7#0;class#RecursiveFunction#0" />
+                <element signature="method#contar7#0;class#RecursiveFunction#0" />
+                <element signature="docComment;field#A#0;class#RecursiveFunction#0" />
+                <element signature="method#ArraySumma#0;class#RecursiveFunction#0" />
+                <element signature="method#PositiveOrNegative#0;class#RecursiveFunction#0" />
+                <element signature="method#numeroPositivo#0;class#RecursiveFunction#0" />
+                <element signature="method#NegativeNumber#0;class#RecursiveFunction#0" />
+                <element signature="e#13860#13883#0" />
+                <element signature="e#14192#14328#0" />
+                <element signature="e#14334#14471#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UImain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="method#UImain#0;class#UImain#0" />
+                <element signature="docComment;method#sumarValorArreglo#0;class#UImain#0" />
+                <element signature="method#sumarValorArreglo#0;class#UImain#0" />
+                <element signature="docComment;method#BuscarMayorArray#0;class#UImain#0" />
+                <element signature="method#sumarValorArreglo#1;class#UImain#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Ej1NumerosDel1al10.java" />
+        <option value="$PROJECT_DIR$/src/Programa.java" />
+        <option value="$PROJECT_DIR$/src/Metodos.java" />
+        <option value="$PROJECT_DIR$/src/RecursiveFunction.java" />
+        <option value="$PROJECT_DIR$/src/UImain.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Ejercicios De Recursividad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ejercicios De Recursividad" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ejercicios De Recursividad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ejercicios De Recursividad" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571113485177" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Ejercicios De Recursividad" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programa" />
+      <module name="Ejercicios De Recursividad" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Programa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="315dfffc-6ed2-4810-bf43-9b651eb8e07d" name="Default Changelist" comment="" />
+      <created>1571012071876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571012071876</updated>
+      <workItem from="1571012074876" duration="20915000" />
+      <workItem from="1571068036180" duration="31731000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52646000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Programa.java" />
+    <entry file="file://$PROJECT_DIR$/src/UImain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="method#UImain#0;class#UImain#0" />
+            <element signature="docComment;method#sumarValorArreglo#0;class#UImain#0" />
+            <element signature="method#sumarValorArreglo#0;class#UImain#0" />
+            <element signature="docComment;method#BuscarMayorArray#0;class#UImain#0" />
+            <element signature="method#sumarValorArreglo#1;class#UImain#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RecursiveFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="616" selection-start-line="616" selection-end-line="616" />
+          <folding>
+            <element signature="docComment;method#UnoALDiez#0;class#RecursiveFunction#0" />
+            <element signature="method#UnoALDiez#0;class#RecursiveFunction#0" />
+            <element signature="docComment;method#TablaDelNueve#0;class#RecursiveFunction#0" />
+            <element signature="method#TablaDelNueve#0;class#RecursiveFunction#0" />
+            <element signature="docComment;method#numeroMayor#0;class#RecursiveFunction#0" />
+            <element signature="method#numeroMayor#0;class#RecursiveFunction#0" />
+            <element signature="docComment;method#fibbonacci#0;class#RecursiveFunction#0" />
+            <element signature="method#fibbonacci#0;class#RecursiveFunction#0" />
+            <element signature="docComment;method#recursiveFibonacci#0;class#RecursiveFunction#0" />
+            <element signature="method#recursiveFibonacci#0;class#RecursiveFunction#0" />
+            <element signature="docComment;method#recursiveFibonacciNum#0;class#RecursiveFunction#0" />
+            <element signature="method#recursiveFibonacciNum#0;class#RecursiveFunction#0" />
+            <element signature="e#3502#3692#1" />
+            <element signature="docComment;method#bunnyEars#0;class#RecursiveFunction#0" />
+            <element signature="method#bunnyEars#0;class#RecursiveFunction#0" />
+            <element signature="docComment;method#bunnyEars#1;class#RecursiveFunction#0" />
+            <element signature="method#bunnyEarsTres#0;class#RecursiveFunction#0" />
+            <element signature="docComment;field#fa#0;class#RecursiveFunction#0" />
+            <element signature="method#factorialNumber#0;class#RecursiveFunction#0" />
+            <element signature="docComment;method#factorialFuntion#0;class#RecursiveFunction#0" />
+            <element signature="method#factorial#0;class#RecursiveFunction#0" />
+            <element signature="docComment;field#fa#0;class#RecursiveFunction#0" />
+            <element signature="method#factorialNumberRecursive#0;class#RecursiveFunction#0" />
+            <element signature="docComment;field#di#0;class#RecursiveFunction#0" />
+            <element signature="method#divisionEnteros#0;class#RecursiveFunction#0" />
+            <element signature="docComment;method#division#0;class#RecursiveFunction#0" />
+            <element signature="method#division#0;class#RecursiveFunction#0" />
+            <element signature="docComment;field#getReverseNumber#0;class#RecursiveFunction#0" />
+            <element signature="method#ReverseNumber#0;class#RecursiveFunction#0" />
+            <element signature="method#reverseNumber#0;class#RecursiveFunction#0" />
+            <element signature="docComment;field#sum#0;class#RecursiveFunction#0" />
+            <element signature="method#sumDigits#0;class#RecursiveFunction#0" />
+            <element signature="method#suma#0;class#RecursiveFunction#0" />
+            <element signature="e#10245#10372#1" />
+            <element signature="e#10378#10519#1" />
+            <element signature="docComment;field#ci#0;class#RecursiveFunction#0" />
+            <element signature="method#contar7#0;class#RecursiveFunction#0" />
+            <element signature="method#contar7#0;class#RecursiveFunction#0" />
+            <element signature="docComment;field#A#0;class#RecursiveFunction#0" />
+            <element signature="method#ArraySumma#0;class#RecursiveFunction#0" />
+            <element signature="method#PositiveOrNegative#0;class#RecursiveFunction#0" />
+            <element signature="method#numeroPositivo#0;class#RecursiveFunction#0" />
+            <element signature="method#NegativeNumber#0;class#RecursiveFunction#0" />
+            <element signature="e#13860#13883#0" />
+            <element signature="e#14192#14328#0" />
+            <element signature="e#14334#14471#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
