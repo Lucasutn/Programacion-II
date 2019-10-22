@@ -2,6 +2,7 @@ public class Nodo {
 
     private int data;
     private Nodo next;
+    private Nodo back;
     private int ID;
 
     public Nodo() {
@@ -35,5 +36,13 @@ public class Nodo {
 
     public void setID(int ID) {
         this.ID = ID;
+    }
+
+    public Nodo getBack() {
+        return back;
+    }
+
+    public void setBack(Nodo back) {
+        this.back = back;
     }
 }
