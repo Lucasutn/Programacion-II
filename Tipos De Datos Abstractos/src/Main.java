@@ -12,9 +12,8 @@ public class Main {
 
 //       L1.imprimir();
 
-
-
-
+        System.out.println(L1.getPrimerNodo().getID());
+        System.out.println(L1.getPrimerNodo().getNext().getID());
 
     }
 }

@@ -14,34 +14,36 @@ public class List {
     }
 
 
-    public void agregar(int num){
+    public void agregar(int num) {
 
         Nodo n1 = new Nodo(num);
 
-        if(this.primerNodo==null){
+        if (this.primerNodo == null) {
 
-            this.primerNodo= n1;
+            n1.setID(0);
+            this.primerNodo = n1;
 
-        }else {
+        } else {
 
-            recorrerYAgregar(this.primerNodo,n1);
+            recorrerYAgregar(this.primerNodo, n1);
 
 
         }
 
     }
 
-/**
- * */
-    public void recorrerYAgregar(Nodo nodo,Nodo n1){
+    /**
+     *
+     */
+    private void recorrerYAgregar(Nodo nodo, Nodo n1) {
 
-        if(nodo.getNext()==null){
+        if (nodo.getNext() == null) {
 
             nodo.setNext(n1);
 
-        }else{
+        } else {
 
-            recorrerYAgregar(nodo.getNext(),n1);
+            recorrerYAgregar(nodo.getNext(), n1);
 
         }
 
@@ -87,7 +89,6 @@ public class List {
 //        return nodo;
 //
 //    }
-
-
+//
 
 }

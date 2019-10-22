@@ -2,12 +2,14 @@ public class Nodo {
 
     private int data;
     private Nodo next;
+    private int ID;
 
     public Nodo() {
     }
 
     public Nodo(int data) {
         this.data = data;
+        ID++;
     }
 
 
@@ -27,5 +29,11 @@ public class Nodo {
         this.next = next;
     }
 
+    public int getID() {
+        return ID;
+    }
 
+    public void setID(int ID) {
+        this.ID = ID;
+    }
 }
