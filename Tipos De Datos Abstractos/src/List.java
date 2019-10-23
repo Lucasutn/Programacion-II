@@ -1,3 +1,5 @@
+import com.sun.xml.internal.bind.v2.model.core.ID;
+
 public class List {
 
     private Nodo primerNodo;
@@ -40,6 +42,7 @@ public class List {
         if (nodo.getNext() == null) {
             n1.setBack(nodo);
             nodo.setNext(n1);
+            n1.setID(nodo.getID()+1);
 
         } else {
 
@@ -53,34 +56,43 @@ public class List {
      * funcion para agregar un nuevo nodo el la posicion solicitada de 0 a n*/
     public void agregarNodo(Nodo newNodo, int id){
         Nodo aux = this.primerNodo;
-        AddNodo(newNodo,id,aux);
+        addNodo(newNodo,id,aux);
     }
 
     /**
      * funcion encapsulada en {@link}
      * */
-    private void AddNodo(Nodo newNodo, int id,Nodo nodo){
+    private void addNodo(Nodo newNodo, int id, Nodo nodo){
 
 
 
-        if(nodo.getData()== id && nodo.getBack()!=null){
+        if(id == 0 ){
+
+            newNodo.setNext(nodo);
+            nodo.setBack(newNodo);
+            this.primerNodo=newNodo;
+            setIDList(nodo,id);
+            return;
+
+//            nodo.getBack().setNext(newNodo);
+//            newNodo.setNext(nodo);
+//            newNodo.setBack(nodo.getBack());
+//            nodo.setBack(newNodo);
+//            nodo.setID(id);
+//
+//            setIDList(newNodo,id);
+
+        }else if(nodo.getID()== id){
 
             nodo.getBack().setNext(newNodo);
-            newNodo.setNext(nodo);
             newNodo.setBack(nodo.getBack());
-            nodo.setBack(newNodo);
-            nodo.setID(id);
-
-            setIDList(newNodo,id);
-
-        }else if(nodo.getData()== id){
-
             newNodo.setNext(nodo);
             nodo.setBack(newNodo);
+            setIDList(newNodo,id-1);
 
-        }else {
-            AddNodo(newNodo, id, nodo.getNext());
+            return;
         }
+            addNodo(newNodo,id,nodo.getNext());
 
 
 
@@ -88,11 +100,20 @@ public class List {
 
     /**
      * Funcion para aumentar el ID++*/
-    private void setIDList(Nodo newNodo, int ID){
-        if(newNodo.getNext()!= null) {
-            newNodo.getNext().setID(ID + 1);
-            setIDList(newNodo.getNext(),ID++);
+    private void setIDList(Nodo nodo, int id){
+
+        nodo.setID(id+1);
+
+        if(nodo.getNext()!=null){
+
+            setIDList(nodo.getNext(),++id);
         }
+
+//        if(nodo.getNext()!= null) {
+//            nodo.getNext().setID(id + 1);
+//            setIDList(nodo.getNext(),id++);
+//        }
+
 
     }
 

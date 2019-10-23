@@ -10,7 +10,7 @@ public class Nodo {
 
     public Nodo(int data) {
         this.data = data;
-        ID++;
+
     }
 
 
